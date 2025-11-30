@@ -48,4 +48,5 @@
 - **Lógica de Programação**  
 - Fundamentos de Análise de Dados  
 - Conceitos básicos de SQL  
-- Introdução a Python  - Pensamento analítico para solução de problemas  
+- Introdução a Python  
+- Pensamento analítico para solução de problemas  
